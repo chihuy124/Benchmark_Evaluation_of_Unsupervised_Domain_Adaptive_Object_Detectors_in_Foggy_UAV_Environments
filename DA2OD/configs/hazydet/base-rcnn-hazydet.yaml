@@ -1,0 +1,17 @@
+_BASE_: "../base-rcnn-fpn.yaml"
+MODEL:
+  ROI_HEADS:
+    NUM_CLASSES: 3
+DATASETS:
+  TRAIN: ("hazydet_train",)
+  TEST: ("hazydet_test",)
+  BATCH_COMPONENTS: ("labeled_strong", )
+EMA:
+  ENABLED: False
+SOLVER:
+  STEPS: (9999,)
+  MAX_ITER: 10000
+  CHECKPOINT_PERIOD: 500
+TEST:
+  EVAL_PERIOD: 500
+OUTPUT_DIR: "output/hazydet/da2od_strongaug/"

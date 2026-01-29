@@ -1,0 +1,3878 @@
+{
+  "000_vs_2020jishuyanzheng_100188": {
+    "source_subdir": "000",
+    "target_subdir": "2020jishuyanzheng_100188",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.05925021693110466,
+        "max_strength": 0.06901323050260544,
+        "min_strength": 0.04948720335960388,
+        "std": 0.009763013571500778,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.035967279225587845,
+        "max_strength": 0.035967279225587845,
+        "min_strength": 0.035967279225587845,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031223011203110218,
+        "max_strength": 0.03593326359987259,
+        "min_strength": 0.026512758806347847,
+        "std": 0.004710252396762371,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "008_vs_2020jishuyanzheng_100193": {
+    "source_subdir": "008",
+    "target_subdir": "2020jishuyanzheng_100193",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06453798897564411,
+        "max_strength": 0.07304240018129349,
+        "min_strength": 0.056033577769994736,
+        "std": 0.008504411205649376,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.040282003581523895,
+        "max_strength": 0.040282003581523895,
+        "min_strength": 0.040282003581523895,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03057035431265831,
+        "max_strength": 0.03431381657719612,
+        "min_strength": 0.0268268920481205,
+        "std": 0.0037434622645378113,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "01-8-_jpg.rf.41fa9d7e1846fa9b779f7506cb4b616d_vs_2020jishuyanzheng_100194": {
+    "source_subdir": "01-8-_jpg.rf.41fa9d7e1846fa9b779f7506cb4b616d",
+    "target_subdir": "2020jishuyanzheng_100194",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.05886721797287464,
+        "max_strength": 0.06750205904245377,
+        "min_strength": 0.05023237690329552,
+        "std": 0.008634841069579124,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03762390464544296,
+        "max_strength": 0.03762390464544296,
+        "min_strength": 0.03762390464544296,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031070515513420105,
+        "max_strength": 0.03496137633919716,
+        "min_strength": 0.02717965468764305,
+        "std": 0.003890860825777054,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "022_vs_2020jishuyanzheng_100221": {
+    "source_subdir": "022",
+    "target_subdir": "2020jishuyanzheng_100221",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06192192994058132,
+        "max_strength": 0.07097142189741135,
+        "min_strength": 0.0528724379837513,
+        "std": 0.009049491956830025,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03847619518637657,
+        "max_strength": 0.03847619518637657,
+        "min_strength": 0.03847619518637657,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.030568504706025124,
+        "max_strength": 0.034776750952005386,
+        "min_strength": 0.02636025846004486,
+        "std": 0.004208246245980263,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "023_vs_2020jishuyanzheng_100538": {
+    "source_subdir": "023",
+    "target_subdir": "2020jishuyanzheng_100538",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.05940678529441357,
+        "max_strength": 0.06901059299707413,
+        "min_strength": 0.049802977591753006,
+        "std": 0.00960380770266056,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03682105988264084,
+        "max_strength": 0.03682105988264084,
+        "min_strength": 0.03682105988264084,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.030522662214934826,
+        "max_strength": 0.03479532524943352,
+        "min_strength": 0.026249999180436134,
+        "std": 0.0042726630344986916,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "025_vs_2020jishuyanzheng_100549": {
+    "source_subdir": "025",
+    "target_subdir": "2020jishuyanzheng_100549",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06212272308766842,
+        "max_strength": 0.07143791764974594,
+        "min_strength": 0.0528075285255909,
+        "std": 0.009315194562077522,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03913488611578941,
+        "max_strength": 0.03913488611578941,
+        "min_strength": 0.03913488611578941,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03176488075405359,
+        "max_strength": 0.03604472428560257,
+        "min_strength": 0.027485037222504616,
+        "std": 0.004279843531548977,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "026_vs_2020jishuyanzheng_100594": {
+    "source_subdir": "026",
+    "target_subdir": "2020jishuyanzheng_100594",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.061171431094408035,
+        "max_strength": 0.07013550400733948,
+        "min_strength": 0.05220735818147659,
+        "std": 0.008964072912931442,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03857140615582466,
+        "max_strength": 0.03857140615582466,
+        "min_strength": 0.03857140615582466,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03209392447024584,
+        "max_strength": 0.03672843798995018,
+        "min_strength": 0.027459410950541496,
+        "std": 0.004634513519704342,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "040_vs_2020jishuyanzheng_100654": {
+    "source_subdir": "040",
+    "target_subdir": "2020jishuyanzheng_100654",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06388596072793007,
+        "max_strength": 0.0722942128777504,
+        "min_strength": 0.05547770857810974,
+        "std": 0.008408252149820328,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.039233941584825516,
+        "max_strength": 0.039233941584825516,
+        "min_strength": 0.039233941584825516,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.030997781082987785,
+        "max_strength": 0.0349116325378418,
+        "min_strength": 0.027083929628133774,
+        "std": 0.0039138514548540115,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "042_vs_2020jishuyanzheng_101324": {
+    "source_subdir": "042",
+    "target_subdir": "2020jishuyanzheng_101324",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06426771357655525,
+        "max_strength": 0.07223642617464066,
+        "min_strength": 0.05629900097846985,
+        "std": 0.007968712598085403,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.041836563497781754,
+        "max_strength": 0.041836563497781754,
+        "min_strength": 0.041836563497781754,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031215086579322815,
+        "max_strength": 0.03534357249736786,
+        "min_strength": 0.02708660066127777,
+        "std": 0.004128485918045044,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "047_vs_2020jishuyanzheng_101647": {
+    "source_subdir": "047",
+    "target_subdir": "2020jishuyanzheng_101647",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06244894489645958,
+        "max_strength": 0.07146458327770233,
+        "min_strength": 0.05343330651521683,
+        "std": 0.009015638381242752,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.039534565061330795,
+        "max_strength": 0.039534565061330795,
+        "min_strength": 0.039534565061330795,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.029923039488494396,
+        "max_strength": 0.03287115320563316,
+        "min_strength": 0.02697492577135563,
+        "std": 0.0029481137171387672,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "049_vs_2020jishuyanzheng_101727": {
+    "source_subdir": "049",
+    "target_subdir": "2020jishuyanzheng_101727",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06327208504080772,
+        "max_strength": 0.07232474535703659,
+        "min_strength": 0.05421942472457886,
+        "std": 0.009052660316228867,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03918695077300072,
+        "max_strength": 0.03918695077300072,
+        "min_strength": 0.03918695077300072,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031691186130046844,
+        "max_strength": 0.036139994859695435,
+        "min_strength": 0.027242377400398254,
+        "std": 0.00444880872964859,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "055_vs_2020jishuyanzheng_101777": {
+    "source_subdir": "055",
+    "target_subdir": "2020jishuyanzheng_101777",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.061582570895552635,
+        "max_strength": 0.07100044190883636,
+        "min_strength": 0.052164699882268906,
+        "std": 0.00941787101328373,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.038278523832559586,
+        "max_strength": 0.038278523832559586,
+        "min_strength": 0.038278523832559586,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.0308628985658288,
+        "max_strength": 0.03457692638039589,
+        "min_strength": 0.02714887075126171,
+        "std": 0.003714027814567089,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "059_vs_2020jishuyanzheng_101788": {
+    "source_subdir": "059",
+    "target_subdir": "2020jishuyanzheng_101788",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06606214120984077,
+        "max_strength": 0.07422801852226257,
+        "min_strength": 0.057896263897418976,
+        "std": 0.008165877312421799,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.042404331266880035,
+        "max_strength": 0.042404331266880035,
+        "min_strength": 0.042404331266880035,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.029868914745748043,
+        "max_strength": 0.03281262889504433,
+        "min_strength": 0.02692520059645176,
+        "std": 0.0029437141492962837,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "068_vs_2020jishuyanzheng_101820": {
+    "source_subdir": "068",
+    "target_subdir": "2020jishuyanzheng_101820",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06314329244196415,
+        "max_strength": 0.0717383623123169,
+        "min_strength": 0.054548222571611404,
+        "std": 0.008595069870352745,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04149974137544632,
+        "max_strength": 0.04149974137544632,
+        "min_strength": 0.04149974137544632,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031404875218868256,
+        "max_strength": 0.03505358844995499,
+        "min_strength": 0.027756161987781525,
+        "std": 0.003648713231086731,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "075_vs_2020jishuyanzheng_102015": {
+    "source_subdir": "075",
+    "target_subdir": "2020jishuyanzheng_102015",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06146703474223614,
+        "max_strength": 0.070518858730793,
+        "min_strength": 0.052415210753679276,
+        "std": 0.009051823988556862,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03878357633948326,
+        "max_strength": 0.03878357633948326,
+        "min_strength": 0.03878357633948326,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03225638531148434,
+        "max_strength": 0.03668277710676193,
+        "min_strength": 0.02782999351620674,
+        "std": 0.0044263917952775955,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "082_vs_2020jishuyanzheng_102915": {
+    "source_subdir": "082",
+    "target_subdir": "2020jishuyanzheng_102915",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06490251049399376,
+        "max_strength": 0.07305537164211273,
+        "min_strength": 0.056749649345874786,
+        "std": 0.008152861148118973,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.041845519095659256,
+        "max_strength": 0.041845519095659256,
+        "min_strength": 0.041845519095659256,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.030943185091018677,
+        "max_strength": 0.03399163857102394,
+        "min_strength": 0.027894731611013412,
+        "std": 0.0030484534800052643,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "086_vs_2020jishuyanzheng_102916": {
+    "source_subdir": "086",
+    "target_subdir": "2020jishuyanzheng_102916",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06133603677153587,
+        "max_strength": 0.07058367133140564,
+        "min_strength": 0.05208840221166611,
+        "std": 0.009247634559869766,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03801334649324417,
+        "max_strength": 0.03801334649324417,
+        "min_strength": 0.03801334649324417,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03141527995467186,
+        "max_strength": 0.03589699789881706,
+        "min_strength": 0.026933562010526657,
+        "std": 0.004481717944145203,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "087_vs_2020jishuyanzheng_103511": {
+    "source_subdir": "087",
+    "target_subdir": "2020jishuyanzheng_103511",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.060871437191963196,
+        "max_strength": 0.07019377499818802,
+        "min_strength": 0.05154909938573837,
+        "std": 0.009322337806224823,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03818008676171303,
+        "max_strength": 0.03818008676171303,
+        "min_strength": 0.03818008676171303,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03115343675017357,
+        "max_strength": 0.035313770174980164,
+        "min_strength": 0.026993103325366974,
+        "std": 0.004160333424806595,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "093_vs_2020jishuyanzheng_103749": {
+    "source_subdir": "093",
+    "target_subdir": "2020jishuyanzheng_103749",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.0619452279061079,
+        "max_strength": 0.07107601314783096,
+        "min_strength": 0.05281444266438484,
+        "std": 0.00913078524172306,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03897407650947571,
+        "max_strength": 0.03897407650947571,
+        "min_strength": 0.03897407650947571,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03170623816549778,
+        "max_strength": 0.036218930035829544,
+        "min_strength": 0.027193546295166016,
+        "std": 0.004512691870331764,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "095_vs_2020jishuyanzheng_104826": {
+    "source_subdir": "095",
+    "target_subdir": "2020jishuyanzheng_104826",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.060734160244464874,
+        "max_strength": 0.06990513950586319,
+        "min_strength": 0.05156318098306656,
+        "std": 0.009170979261398315,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03900161385536194,
+        "max_strength": 0.03900161385536194,
+        "min_strength": 0.03900161385536194,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.032425946556031704,
+        "max_strength": 0.03712232783436775,
+        "min_strength": 0.027729565277695656,
+        "std": 0.004696381278336048,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "096_vs_2020jishuyanzheng_105625": {
+    "source_subdir": "096",
+    "target_subdir": "2020jishuyanzheng_105625",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.0637621134519577,
+        "max_strength": 0.07277747243642807,
+        "min_strength": 0.054746754467487335,
+        "std": 0.009015358984470367,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03912284970283508,
+        "max_strength": 0.03912284970283508,
+        "min_strength": 0.03912284970283508,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03145212307572365,
+        "max_strength": 0.03538253903388977,
+        "min_strength": 0.027521707117557526,
+        "std": 0.0039304159581661224,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "097_vs_2020jishuyanzheng_105665": {
+    "source_subdir": "097",
+    "target_subdir": "2020jishuyanzheng_105665",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06264845840632915,
+        "max_strength": 0.07082700729370117,
+        "min_strength": 0.05446990951895714,
+        "std": 0.008178548887372017,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04190509021282196,
+        "max_strength": 0.04190509021282196,
+        "min_strength": 0.04190509021282196,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03100411966443062,
+        "max_strength": 0.03424791619181633,
+        "min_strength": 0.027760323137044907,
+        "std": 0.0032437965273857117,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "101_vs_2020jishuyanzheng_87134": {
+    "source_subdir": "101",
+    "target_subdir": "2020jishuyanzheng_87134",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06072002276778221,
+        "max_strength": 0.07024465501308441,
+        "min_strength": 0.05119539052248001,
+        "std": 0.0095246322453022,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03775554522871971,
+        "max_strength": 0.03775554522871971,
+        "min_strength": 0.03775554522871971,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031247190199792385,
+        "max_strength": 0.03581634908914566,
+        "min_strength": 0.02667803131043911,
+        "std": 0.004569158889353275,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "108_vs_2020jishuyanzheng_87233": {
+    "source_subdir": "108",
+    "target_subdir": "2020jishuyanzheng_87233",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06330020539462566,
+        "max_strength": 0.07223004102706909,
+        "min_strength": 0.054370369762182236,
+        "std": 0.008929835632443428,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04004894942045212,
+        "max_strength": 0.04004894942045212,
+        "min_strength": 0.04004894942045212,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031197973527014256,
+        "max_strength": 0.035142891108989716,
+        "min_strength": 0.027253055945038795,
+        "std": 0.00394491758197546,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "109_vs_2020jishuyanzheng_87305": {
+    "source_subdir": "109",
+    "target_subdir": "2020jishuyanzheng_87305",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06226428598165512,
+        "max_strength": 0.07113033533096313,
+        "min_strength": 0.05339823663234711,
+        "std": 0.008866049349308014,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03952767699956894,
+        "max_strength": 0.03952767699956894,
+        "min_strength": 0.03952767699956894,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.0320159737020731,
+        "max_strength": 0.03618314862251282,
+        "min_strength": 0.027848798781633377,
+        "std": 0.00416717492043972,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "121_vs_2020jishuyanzheng_87321": {
+    "source_subdir": "121",
+    "target_subdir": "2020jishuyanzheng_87321",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.0638051237910986,
+        "max_strength": 0.07171106338500977,
+        "min_strength": 0.055899184197187424,
+        "std": 0.007905939593911171,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.040703557431697845,
+        "max_strength": 0.040703557431697845,
+        "min_strength": 0.040703557431697845,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03055637702345848,
+        "max_strength": 0.03427381068468094,
+        "min_strength": 0.026838943362236023,
+        "std": 0.003717433661222458,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "139_vs_2020jishuyanzheng_87327": {
+    "source_subdir": "139",
+    "target_subdir": "2020jishuyanzheng_87327",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.0623839870095253,
+        "max_strength": 0.07119260728359222,
+        "min_strength": 0.053575366735458374,
+        "std": 0.008808620274066925,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03876258805394173,
+        "max_strength": 0.03876258805394173,
+        "min_strength": 0.03876258805394173,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.0304328678175807,
+        "max_strength": 0.03370156139135361,
+        "min_strength": 0.027164174243807793,
+        "std": 0.0032686935737729073,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "145_vs_2020jishuyanzheng_87329": {
+    "source_subdir": "145",
+    "target_subdir": "2020jishuyanzheng_87329",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06316672638058662,
+        "max_strength": 0.07232937216758728,
+        "min_strength": 0.05400408059358597,
+        "std": 0.009162645787000656,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03887450695037842,
+        "max_strength": 0.03887450695037842,
+        "min_strength": 0.03887450695037842,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.030985563062131405,
+        "max_strength": 0.03471038118004799,
+        "min_strength": 0.02726074494421482,
+        "std": 0.003724818117916584,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "150_vs_2020jishuyanzheng_87619": {
+    "source_subdir": "150",
+    "target_subdir": "2020jishuyanzheng_87619",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06259473226964474,
+        "max_strength": 0.07149916142225266,
+        "min_strength": 0.05369030311703682,
+        "std": 0.008904429152607918,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04004174470901489,
+        "max_strength": 0.04004174470901489,
+        "min_strength": 0.04004174470901489,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.030728611163794994,
+        "max_strength": 0.034516580402851105,
+        "min_strength": 0.026940641924738884,
+        "std": 0.0037879692390561104,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "153_vs_2020jishuyanzheng_87876": {
+    "source_subdir": "153",
+    "target_subdir": "2020jishuyanzheng_87876",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06356371007859707,
+        "max_strength": 0.0722091794013977,
+        "min_strength": 0.05491824075579643,
+        "std": 0.008645469322800636,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04006641358137131,
+        "max_strength": 0.04006641358137131,
+        "min_strength": 0.04006641358137131,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03170218598097563,
+        "max_strength": 0.0359918586909771,
+        "min_strength": 0.02741251327097416,
+        "std": 0.004289672710001469,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "161_vs_2020jishuyanzheng_87974": {
+    "source_subdir": "161",
+    "target_subdir": "2020jishuyanzheng_87974",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.061191126704216,
+        "max_strength": 0.0703699141740799,
+        "min_strength": 0.05201233923435211,
+        "std": 0.009178787469863892,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.038315270096063614,
+        "max_strength": 0.038315270096063614,
+        "min_strength": 0.038315270096063614,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03226691484451294,
+        "max_strength": 0.036533281207084656,
+        "min_strength": 0.028000548481941223,
+        "std": 0.004266366362571716,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "167_vs_2020jishuyanzheng_88865": {
+    "source_subdir": "167",
+    "target_subdir": "2020jishuyanzheng_88865",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.062373086810112,
+        "max_strength": 0.07155050337314606,
+        "min_strength": 0.05319567024707794,
+        "std": 0.009177416563034058,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03847759589552879,
+        "max_strength": 0.03847759589552879,
+        "min_strength": 0.03847759589552879,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.030911840498447418,
+        "max_strength": 0.03479760140180588,
+        "min_strength": 0.02702607959508896,
+        "std": 0.0038857609033584595,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "171_vs_2020jishuyanzheng_89068": {
+    "source_subdir": "171",
+    "target_subdir": "2020jishuyanzheng_89068",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06258689425885677,
+        "max_strength": 0.0712914988398552,
+        "min_strength": 0.05388228967785835,
+        "std": 0.00870460458099842,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04037565365433693,
+        "max_strength": 0.04037565365433693,
+        "min_strength": 0.04037565365433693,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03178700525313616,
+        "max_strength": 0.035962656140327454,
+        "min_strength": 0.027611354365944862,
+        "std": 0.004175650887191296,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "172_vs_2020jishuyanzheng_89148": {
+    "source_subdir": "172",
+    "target_subdir": "2020jishuyanzheng_89148",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06172242574393749,
+        "max_strength": 0.07082445174455643,
+        "min_strength": 0.05262039974331856,
+        "std": 0.009102026000618935,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03884613886475563,
+        "max_strength": 0.03884613886475563,
+        "min_strength": 0.03884613886475563,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.032925305888056755,
+        "max_strength": 0.037734255194664,
+        "min_strength": 0.02811635658144951,
+        "std": 0.004808949306607246,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "178_vs_2020jishuyanzheng_89178": {
+    "source_subdir": "178",
+    "target_subdir": "2020jishuyanzheng_89178",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06398855336010456,
+        "max_strength": 0.07157563418149948,
+        "min_strength": 0.05640147253870964,
+        "std": 0.00758708082139492,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.0422140471637249,
+        "max_strength": 0.0422140471637249,
+        "min_strength": 0.0422140471637249,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031072307378053665,
+        "max_strength": 0.03496859222650528,
+        "min_strength": 0.02717602252960205,
+        "std": 0.0038962848484516144,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "180_vs_2020jishuyanzheng_89186": {
+    "source_subdir": "180",
+    "target_subdir": "2020jishuyanzheng_89186",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06115277297794819,
+        "max_strength": 0.07021097093820572,
+        "min_strength": 0.05209457501769066,
+        "std": 0.00905819796025753,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04034116119146347,
+        "max_strength": 0.04034116119146347,
+        "min_strength": 0.04034116119146347,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03206546325236559,
+        "max_strength": 0.036222510039806366,
+        "min_strength": 0.027908416464924812,
+        "std": 0.004157046787440777,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "190_vs_2020jishuyanzheng_89193": {
+    "source_subdir": "190",
+    "target_subdir": "2020jishuyanzheng_89193",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.059691425412893295,
+        "max_strength": 0.06951454281806946,
+        "min_strength": 0.04986830800771713,
+        "std": 0.009823117405176163,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03602783381938934,
+        "max_strength": 0.03602783381938934,
+        "min_strength": 0.03602783381938934,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.032111561857163906,
+        "max_strength": 0.037335220724344254,
+        "min_strength": 0.02688790298998356,
+        "std": 0.0052236588671803474,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "192_vs_2020jishuyanzheng_89203": {
+    "source_subdir": "192",
+    "target_subdir": "2020jishuyanzheng_89203",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06043487414717674,
+        "max_strength": 0.06994403153657913,
+        "min_strength": 0.05092571675777435,
+        "std": 0.00950915738940239,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03763088211417198,
+        "max_strength": 0.03763088211417198,
+        "min_strength": 0.03763088211417198,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031529597006738186,
+        "max_strength": 0.03592827543616295,
+        "min_strength": 0.027130918577313423,
+        "std": 0.004398678429424763,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "195_vs_2020jishuyanzheng_89204": {
+    "source_subdir": "195",
+    "target_subdir": "2020jishuyanzheng_89204",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06232086196541786,
+        "max_strength": 0.0712350457906723,
+        "min_strength": 0.05340667814016342,
+        "std": 0.00891418382525444,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04077964648604393,
+        "max_strength": 0.04077964648604393,
+        "min_strength": 0.04077964648604393,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031930748373270035,
+        "max_strength": 0.03645028546452522,
+        "min_strength": 0.027411211282014847,
+        "std": 0.004519537091255188,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "202_vs_2020jishuyanzheng_89283": {
+    "source_subdir": "202",
+    "target_subdir": "2020jishuyanzheng_89283",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.061824336647987366,
+        "max_strength": 0.07117432355880737,
+        "min_strength": 0.05247434973716736,
+        "std": 0.009349986910820007,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03854137286543846,
+        "max_strength": 0.03854137286543846,
+        "min_strength": 0.03854137286543846,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03243808355182409,
+        "max_strength": 0.03729927912354469,
+        "min_strength": 0.027576887980103493,
+        "std": 0.0048611955717206,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "20221210_092024_jpg.rf.24c2daaaa0431d18e448c12ad68c2e3e_vs_2020jishuyanzheng_89301": {
+    "source_subdir": "20221210_092024_jpg.rf.24c2daaaa0431d18e448c12ad68c2e3e",
+    "target_subdir": "2020jishuyanzheng_89301",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.05954837240278721,
+        "max_strength": 0.06853148341178894,
+        "min_strength": 0.05056526139378548,
+        "std": 0.008983111009001732,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03602514788508415,
+        "max_strength": 0.03602514788508415,
+        "min_strength": 0.03602514788508415,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031218337826430798,
+        "max_strength": 0.03602548688650131,
+        "min_strength": 0.026411188766360283,
+        "std": 0.004807149060070515,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "20221210_092400_jpg.rf.5b5aef6e4167e15ade407fec218a3d9f_vs_2020jishuyanzheng_90549": {
+    "source_subdir": "20221210_092400_jpg.rf.5b5aef6e4167e15ade407fec218a3d9f",
+    "target_subdir": "2020jishuyanzheng_90549",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.061474718153476715,
+        "max_strength": 0.07019701600074768,
+        "min_strength": 0.05275242030620575,
+        "std": 0.008722297847270966,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03860202431678772,
+        "max_strength": 0.03860202431678772,
+        "min_strength": 0.03860202431678772,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03208370599895716,
+        "max_strength": 0.036895569413900375,
+        "min_strength": 0.02727184258401394,
+        "std": 0.004811863414943218,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "20221210_093305_jpg.rf.1ca3fc44dcdc31edd339a777dcbec2d4_vs_2020jishuyanzheng_90688": {
+    "source_subdir": "20221210_093305_jpg.rf.1ca3fc44dcdc31edd339a777dcbec2d4",
+    "target_subdir": "2020jishuyanzheng_90688",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06115499697625637,
+        "max_strength": 0.07038868963718414,
+        "min_strength": 0.0519213043153286,
+        "std": 0.009233692660927773,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03716396167874336,
+        "max_strength": 0.03716396167874336,
+        "min_strength": 0.03716396167874336,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03181183338165283,
+        "max_strength": 0.036530397832393646,
+        "min_strength": 0.027093268930912018,
+        "std": 0.004718564450740814,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "20221210_093321_jpg.rf.1e55b577e3e22d7808d9b2a9da521334_vs_2020jishuyanzheng_90775": {
+    "source_subdir": "20221210_093321_jpg.rf.1e55b577e3e22d7808d9b2a9da521334",
+    "target_subdir": "2020jishuyanzheng_90775",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.061748312786221504,
+        "max_strength": 0.07035583257675171,
+        "min_strength": 0.0531407929956913,
+        "std": 0.008607519790530205,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03773172199726105,
+        "max_strength": 0.03773172199726105,
+        "min_strength": 0.03773172199726105,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031910110265016556,
+        "max_strength": 0.03649038076400757,
+        "min_strength": 0.027329839766025543,
+        "std": 0.004580270498991013,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "20221210_093431_jpg.rf.7da52d538c371fb44bf6e45db6e25dce_vs_2020jishuyanzheng_90842": {
+    "source_subdir": "20221210_093431_jpg.rf.7da52d538c371fb44bf6e45db6e25dce",
+    "target_subdir": "2020jishuyanzheng_90842",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.060789987444877625,
+        "max_strength": 0.06935214251279831,
+        "min_strength": 0.05222783237695694,
+        "std": 0.008562155067920685,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03715049475431442,
+        "max_strength": 0.03715049475431442,
+        "min_strength": 0.03715049475431442,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03149489779025316,
+        "max_strength": 0.03589066490530968,
+        "min_strength": 0.027099130675196648,
+        "std": 0.004395767115056515,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "206_vs_2020jishuyanzheng_90982": {
+    "source_subdir": "206",
+    "target_subdir": "2020jishuyanzheng_90982",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.0643714964389801,
+        "max_strength": 0.07240429520606995,
+        "min_strength": 0.05633869767189026,
+        "std": 0.008032798767089844,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04150963947176933,
+        "max_strength": 0.04150963947176933,
+        "min_strength": 0.04150963947176933,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03142018336802721,
+        "max_strength": 0.035374682396650314,
+        "min_strength": 0.027465684339404106,
+        "std": 0.003954499028623104,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "207_vs_2020jishuyanzheng_90991": {
+    "source_subdir": "207",
+    "target_subdir": "2020jishuyanzheng_90991",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06226319447159767,
+        "max_strength": 0.07146865129470825,
+        "min_strength": 0.05305773764848709,
+        "std": 0.00920545682311058,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.038677096366882324,
+        "max_strength": 0.038677096366882324,
+        "min_strength": 0.038677096366882324,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03151268605142832,
+        "max_strength": 0.03577136993408203,
+        "min_strength": 0.027254002168774605,
+        "std": 0.004258683882653713,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "208_vs_2020jishuyanzheng_91006": {
+    "source_subdir": "208",
+    "target_subdir": "2020jishuyanzheng_91006",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06135350093245506,
+        "max_strength": 0.07066910713911057,
+        "min_strength": 0.05203789472579956,
+        "std": 0.009315606206655502,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03805368393659592,
+        "max_strength": 0.03805368393659592,
+        "min_strength": 0.03805368393659592,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03115126583725214,
+        "max_strength": 0.03536571189761162,
+        "min_strength": 0.026936819776892662,
+        "std": 0.004214446060359478,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "220_vs_2020jishuyanzheng_91008": {
+    "source_subdir": "220",
+    "target_subdir": "2020jishuyanzheng_91008",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06176198273897171,
+        "max_strength": 0.07094980776309967,
+        "min_strength": 0.05257415771484375,
+        "std": 0.00918782502412796,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.039455343037843704,
+        "max_strength": 0.039455343037843704,
+        "min_strength": 0.039455343037843704,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.032932354137301445,
+        "max_strength": 0.037658482789993286,
+        "min_strength": 0.028206225484609604,
+        "std": 0.004726128652691841,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "229_vs_2020jishuyanzheng_91009": {
+    "source_subdir": "229",
+    "target_subdir": "2020jishuyanzheng_91009",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06166490353643894,
+        "max_strength": 0.07104845345020294,
+        "min_strength": 0.05228135362267494,
+        "std": 0.009383549913764,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03865727782249451,
+        "max_strength": 0.03865727782249451,
+        "min_strength": 0.03865727782249451,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03257733955979347,
+        "max_strength": 0.03723197057843208,
+        "min_strength": 0.02792270854115486,
+        "std": 0.004654631018638611,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "230_vs_2020jishuyanzheng_91010": {
+    "source_subdir": "230",
+    "target_subdir": "2020jishuyanzheng_91010",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06044125743210316,
+        "max_strength": 0.0699739009141922,
+        "min_strength": 0.050908613950014114,
+        "std": 0.009532643482089043,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03720378875732422,
+        "max_strength": 0.03720378875732422,
+        "min_strength": 0.03720378875732422,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.032542940229177475,
+        "max_strength": 0.03751653805375099,
+        "min_strength": 0.027569342404603958,
+        "std": 0.004973597824573517,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "234_vs_2020jishuyanzheng_91015": {
+    "source_subdir": "234",
+    "target_subdir": "2020jishuyanzheng_91015",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06456124968826771,
+        "max_strength": 0.07315812259912491,
+        "min_strength": 0.05596437677741051,
+        "std": 0.0085968729108572,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03942044824361801,
+        "max_strength": 0.03942044824361801,
+        "min_strength": 0.03942044824361801,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03189691249281168,
+        "max_strength": 0.0360146090388298,
+        "min_strength": 0.027779215946793556,
+        "std": 0.004117696546018124,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "236_vs_2020jishuyanzheng_91016": {
+    "source_subdir": "236",
+    "target_subdir": "2020jishuyanzheng_91016",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06071570888161659,
+        "max_strength": 0.07015800476074219,
+        "min_strength": 0.051273413002491,
+        "std": 0.009442295879125595,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03721101954579353,
+        "max_strength": 0.03721101954579353,
+        "min_strength": 0.03721101954579353,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03221763577312231,
+        "max_strength": 0.03710504621267319,
+        "min_strength": 0.027330225333571434,
+        "std": 0.004887410439550877,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "238_vs_2020jishuyanzheng_91018": {
+    "source_subdir": "238",
+    "target_subdir": "2020jishuyanzheng_91018",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06536324694752693,
+        "max_strength": 0.07348556816577911,
+        "min_strength": 0.05724092572927475,
+        "std": 0.008122321218252182,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04079471901059151,
+        "max_strength": 0.04079471901059151,
+        "min_strength": 0.04079471901059151,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03148665837943554,
+        "max_strength": 0.03546282276511192,
+        "min_strength": 0.027510493993759155,
+        "std": 0.003976164385676384,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "239_vs_2020jishuyanzheng_91036": {
+    "source_subdir": "239",
+    "target_subdir": "2020jishuyanzheng_91036",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06283666752278805,
+        "max_strength": 0.07161110639572144,
+        "min_strength": 0.05406222864985466,
+        "std": 0.008774438872933388,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.0395607128739357,
+        "max_strength": 0.0395607128739357,
+        "min_strength": 0.0395607128739357,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.0318052563816309,
+        "max_strength": 0.036342740058898926,
+        "min_strength": 0.02726777270436287,
+        "std": 0.004537483677268028,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "241_vs_2020jishuyanzheng_91052": {
+    "source_subdir": "241",
+    "target_subdir": "2020jishuyanzheng_91052",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06141834892332554,
+        "max_strength": 0.07053966075181961,
+        "min_strength": 0.05229703709483147,
+        "std": 0.009121311828494072,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03809141740202904,
+        "max_strength": 0.03809141740202904,
+        "min_strength": 0.03809141740202904,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.030566378496587276,
+        "max_strength": 0.03460903465747833,
+        "min_strength": 0.02652372233569622,
+        "std": 0.004042656160891056,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "247_vs_2020jishuyanzheng_91101": {
+    "source_subdir": "247",
+    "target_subdir": "2020jishuyanzheng_91101",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06608753651380539,
+        "max_strength": 0.07402162253856659,
+        "min_strength": 0.05815345048904419,
+        "std": 0.0079340860247612,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.0408802293241024,
+        "max_strength": 0.0408802293241024,
+        "min_strength": 0.0408802293241024,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03181487414985895,
+        "max_strength": 0.035940177738666534,
+        "min_strength": 0.02768957056105137,
+        "std": 0.004125303588807583,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "C37-BD-SG-_jpg.rf.8b5d6466b9150c10e25c5ff599aed26c_vs_2020jishuyanzheng_91351": {
+    "source_subdir": "C37-BD-SG-_jpg.rf.8b5d6466b9150c10e25c5ff599aed26c",
+    "target_subdir": "2020jishuyanzheng_91351",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06686017476022243,
+        "max_strength": 0.07492170482873917,
+        "min_strength": 0.058798644691705704,
+        "std": 0.008061530068516731,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04157581925392151,
+        "max_strength": 0.04157581925392151,
+        "min_strength": 0.04157581925392151,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031407433561980724,
+        "max_strength": 0.03499896079301834,
+        "min_strength": 0.027815906330943108,
+        "std": 0.0035915272310376167,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DJI_0011_JPG_jpg.rf.cb016548336c095c1aa5b2285c6aed38_vs_2020jishuyanzheng_91355": {
+    "source_subdir": "DJI_0011_JPG_jpg.rf.cb016548336c095c1aa5b2285c6aed38",
+    "target_subdir": "2020jishuyanzheng_91355",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.05945395492017269,
+        "max_strength": 0.06852317601442337,
+        "min_strength": 0.05038473382592201,
+        "std": 0.009069221094250679,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03778010234236717,
+        "max_strength": 0.03778010234236717,
+        "min_strength": 0.03778010234236717,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.02964217495173216,
+        "max_strength": 0.03334750607609749,
+        "min_strength": 0.02593684382736683,
+        "std": 0.0037053311243653297,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DJI_0013_JPG_jpg.rf.7d190a627e8da2b8d9e011ce1d4a720d_vs_2020jishuyanzheng_91365": {
+    "source_subdir": "DJI_0013_JPG_jpg.rf.7d190a627e8da2b8d9e011ce1d4a720d",
+    "target_subdir": "2020jishuyanzheng_91365",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.059188349172472954,
+        "max_strength": 0.068223737180233,
+        "min_strength": 0.050152961164712906,
+        "std": 0.009035388007760048,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03750014677643776,
+        "max_strength": 0.03750014677643776,
+        "min_strength": 0.03750014677643776,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.029638070613145828,
+        "max_strength": 0.03328464552760124,
+        "min_strength": 0.025991495698690414,
+        "std": 0.003646574914455414,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DJI_0031_JPG_jpg.rf.1b0378142d0b1c5a37fc2598dcee2047_vs_2020jishuyanzheng_91368": {
+    "source_subdir": "DJI_0031_JPG_jpg.rf.1b0378142d0b1c5a37fc2598dcee2047",
+    "target_subdir": "2020jishuyanzheng_91368",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06145832873880863,
+        "max_strength": 0.070167176425457,
+        "min_strength": 0.05274948105216026,
+        "std": 0.008708847686648369,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04056524112820625,
+        "max_strength": 0.04056524112820625,
+        "min_strength": 0.04056524112820625,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.02877236157655716,
+        "max_strength": 0.032049406319856644,
+        "min_strength": 0.025495316833257675,
+        "std": 0.0032770447432994843,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DJI_0037_JPG_jpg.rf.c54e2dba5cee07bf36f7e08cff9b86ac_vs_2020jishuyanzheng_91626": {
+    "source_subdir": "DJI_0037_JPG_jpg.rf.c54e2dba5cee07bf36f7e08cff9b86ac",
+    "target_subdir": "2020jishuyanzheng_91626",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.061483537778258324,
+        "max_strength": 0.07015616446733475,
+        "min_strength": 0.0528109110891819,
+        "std": 0.008672626689076424,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04070358723402023,
+        "max_strength": 0.04070358723402023,
+        "min_strength": 0.04070358723402023,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.02853001467883587,
+        "max_strength": 0.0315605029463768,
+        "min_strength": 0.025499526411294937,
+        "std": 0.0030304882675409317,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DJI_0043_JPG_jpg.rf.c0fc0474f9fcbacb43c85f66abb5419a_vs_2020jishuyanzheng_91713": {
+    "source_subdir": "DJI_0043_JPG_jpg.rf.c0fc0474f9fcbacb43c85f66abb5419a",
+    "target_subdir": "2020jishuyanzheng_91713",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.0611004289239645,
+        "max_strength": 0.06979892402887344,
+        "min_strength": 0.05240193381905556,
+        "std": 0.008698495104908943,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04039653018116951,
+        "max_strength": 0.04039653018116951,
+        "min_strength": 0.04039653018116951,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.029053200967609882,
+        "max_strength": 0.03195429965853691,
+        "min_strength": 0.026152102276682854,
+        "std": 0.0029010986909270287,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DJI_0053_JPG_jpg.rf.31c2b8a56701883476e364a33fbd54d2_vs_2020jishuyanzheng_93508": {
+    "source_subdir": "DJI_0053_JPG_jpg.rf.31c2b8a56701883476e364a33fbd54d2",
+    "target_subdir": "2020jishuyanzheng_93508",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.060466768220067024,
+        "max_strength": 0.06965853273868561,
+        "min_strength": 0.05127500370144844,
+        "std": 0.009191764518618584,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03878021240234375,
+        "max_strength": 0.03878021240234375,
+        "min_strength": 0.03878021240234375,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031833178363740444,
+        "max_strength": 0.036322858184576035,
+        "min_strength": 0.027343498542904854,
+        "std": 0.00448967982083559,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DJI_0451_JPG_jpg.rf.c28f1e30b4f50cecdab15a24e939396d_vs_2020jishuyanzheng_93997": {
+    "source_subdir": "DJI_0451_JPG_jpg.rf.c28f1e30b4f50cecdab15a24e939396d",
+    "target_subdir": "2020jishuyanzheng_93997",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.061149636283516884,
+        "max_strength": 0.0699334666132927,
+        "min_strength": 0.052365805953741074,
+        "std": 0.00878383032977581,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03802190348505974,
+        "max_strength": 0.03802190348505974,
+        "min_strength": 0.03802190348505974,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03088198509067297,
+        "max_strength": 0.03502384573221207,
+        "min_strength": 0.026740124449133873,
+        "std": 0.004141860641539097,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DJI_0457_JPG_jpg.rf.d6fd907705ca4416cdbfefe8931f1035_vs_2020jishuyanzheng_94000": {
+    "source_subdir": "DJI_0457_JPG_jpg.rf.d6fd907705ca4416cdbfefe8931f1035",
+    "target_subdir": "2020jishuyanzheng_94000",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.059259042143821716,
+        "max_strength": 0.0683397725224495,
+        "min_strength": 0.05017831176519394,
+        "std": 0.009080730378627777,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03781425580382347,
+        "max_strength": 0.03781425580382347,
+        "min_strength": 0.03781425580382347,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031094826757907867,
+        "max_strength": 0.0353529155254364,
+        "min_strength": 0.026836737990379333,
+        "std": 0.004258088767528534,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DJI_0477_JPG_jpg.rf.a15aa06850d7517b9be4e57c11b7b5a0_vs_2020jishuyanzheng_94001": {
+    "source_subdir": "DJI_0477_JPG_jpg.rf.a15aa06850d7517b9be4e57c11b7b5a0",
+    "target_subdir": "2020jishuyanzheng_94001",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.05963561311364174,
+        "max_strength": 0.0686357244849205,
+        "min_strength": 0.050635501742362976,
+        "std": 0.009000111371278763,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.038049403578042984,
+        "max_strength": 0.038049403578042984,
+        "min_strength": 0.038049403578042984,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.029738543555140495,
+        "max_strength": 0.03333667665719986,
+        "min_strength": 0.02614041045308113,
+        "std": 0.0035981331020593643,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DJI_0481_JPG_jpg.rf.5a6b0a3ed920abe4c7ea6c30c20a6d32_vs_2020jishuyanzheng_94106": {
+    "source_subdir": "DJI_0481_JPG_jpg.rf.5a6b0a3ed920abe4c7ea6c30c20a6d32",
+    "target_subdir": "2020jishuyanzheng_94106",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.060194896534085274,
+        "max_strength": 0.06899359077215195,
+        "min_strength": 0.0513962022960186,
+        "std": 0.008798694238066673,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03894608095288277,
+        "max_strength": 0.03894608095288277,
+        "min_strength": 0.03894608095288277,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.02849767543375492,
+        "max_strength": 0.03143980726599693,
+        "min_strength": 0.02555554360151291,
+        "std": 0.002942131832242012,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DJI_0487_JPG_jpg.rf.a412449df48462f4f4cb08708ccd3c53_vs_2020jishuyanzheng_94518": {
+    "source_subdir": "DJI_0487_JPG_jpg.rf.a412449df48462f4f4cb08708ccd3c53",
+    "target_subdir": "2020jishuyanzheng_94518",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06078106164932251,
+        "max_strength": 0.06949753314256668,
+        "min_strength": 0.05206459015607834,
+        "std": 0.008716471493244171,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.039534296840429306,
+        "max_strength": 0.039534296840429306,
+        "min_strength": 0.039534296840429306,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.02811047714203596,
+        "max_strength": 0.030604707077145576,
+        "min_strength": 0.025616247206926346,
+        "std": 0.0024942299351096153,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DJI_0491_JPG_jpg.rf.bb4a2a080d466dd887552112ba2449a3_vs_2020jishuyanzheng_95492": {
+    "source_subdir": "DJI_0491_JPG_jpg.rf.bb4a2a080d466dd887552112ba2449a3",
+    "target_subdir": "2020jishuyanzheng_95492",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.05985024757683277,
+        "max_strength": 0.06872730702161789,
+        "min_strength": 0.05097318813204765,
+        "std": 0.008877059444785118,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03826397284865379,
+        "max_strength": 0.03826397284865379,
+        "min_strength": 0.03826397284865379,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.029051829129457474,
+        "max_strength": 0.03230775520205498,
+        "min_strength": 0.02579590305685997,
+        "std": 0.0032559260725975037,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DSC01230_JPG_jpg.rf.6de2e615d5b5663bbb38a79f3da5c304_vs_2020jishuyanzheng_95819": {
+    "source_subdir": "DSC01230_JPG_jpg.rf.6de2e615d5b5663bbb38a79f3da5c304",
+    "target_subdir": "2020jishuyanzheng_95819",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06780403666198254,
+        "max_strength": 0.07527786493301392,
+        "min_strength": 0.06033020839095116,
+        "std": 0.00747382827103138,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.0405573733150959,
+        "max_strength": 0.0405573733150959,
+        "min_strength": 0.0405573733150959,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03131257928907871,
+        "max_strength": 0.03509565442800522,
+        "min_strength": 0.027529504150152206,
+        "std": 0.003783075138926506,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DSC01236_JPG_jpg.rf.a9696eb265f1788d350ece9d45a84570_vs_2020jishuyanzheng_96576": {
+    "source_subdir": "DSC01236_JPG_jpg.rf.a9696eb265f1788d350ece9d45a84570",
+    "target_subdir": "2020jishuyanzheng_96576",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.057465534657239914,
+        "max_strength": 0.06700218468904495,
+        "min_strength": 0.047928884625434875,
+        "std": 0.009536650031805038,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03574436530470848,
+        "max_strength": 0.03574436530470848,
+        "min_strength": 0.03574436530470848,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03155320603400469,
+        "max_strength": 0.036233089864254,
+        "min_strength": 0.02687332220375538,
+        "std": 0.0046798838302493095,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DSC01242_JPG_jpg.rf.74becd5bffc3e7c1649f5cedfc6795c9_vs_2020jishuyanzheng_96732": {
+    "source_subdir": "DSC01242_JPG_jpg.rf.74becd5bffc3e7c1649f5cedfc6795c9",
+    "target_subdir": "2020jishuyanzheng_96732",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06580977700650692,
+        "max_strength": 0.07369789481163025,
+        "min_strength": 0.05792165920138359,
+        "std": 0.00788811780512333,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04099039360880852,
+        "max_strength": 0.04099039360880852,
+        "min_strength": 0.04099039360880852,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.030943166464567184,
+        "max_strength": 0.03450248762965202,
+        "min_strength": 0.027383845299482346,
+        "std": 0.003559321165084839,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DSC01317_JPG_jpg.rf.38a584b6ca1a2ce5a5444b3665976144_vs_2020jishuyanzheng_96741": {
+    "source_subdir": "DSC01317_JPG_jpg.rf.38a584b6ca1a2ce5a5444b3665976144",
+    "target_subdir": "2020jishuyanzheng_96741",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.061784401535987854,
+        "max_strength": 0.07036276161670685,
+        "min_strength": 0.05320604145526886,
+        "std": 0.008578360080718994,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04121595248579979,
+        "max_strength": 0.04121595248579979,
+        "min_strength": 0.04121595248579979,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031291158869862556,
+        "max_strength": 0.03457195311784744,
+        "min_strength": 0.02801036462187767,
+        "std": 0.003280794247984886,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DSC01319_JPG_jpg.rf.078d1ae20665392c4b45fb23ad616103_vs_2020jishuyanzheng_96912": {
+    "source_subdir": "DSC01319_JPG_jpg.rf.078d1ae20665392c4b45fb23ad616103",
+    "target_subdir": "2020jishuyanzheng_96912",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06146491877734661,
+        "max_strength": 0.07018175721168518,
+        "min_strength": 0.05274808034300804,
+        "std": 0.00871683843433857,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04059424251317978,
+        "max_strength": 0.04059424251317978,
+        "min_strength": 0.04059424251317978,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.029638768173754215,
+        "max_strength": 0.03235042095184326,
+        "min_strength": 0.02692711539566517,
+        "std": 0.0027116527780890465,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DSC01325_JPG_jpg.rf.35fb1af1088af24560b1323285c43c67_vs_2020jishuyanzheng_97142": {
+    "source_subdir": "DSC01325_JPG_jpg.rf.35fb1af1088af24560b1323285c43c67",
+    "target_subdir": "2020jishuyanzheng_97142",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06057676672935486,
+        "max_strength": 0.06938884407281876,
+        "min_strength": 0.05176468938589096,
+        "std": 0.008812077343463898,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03851798549294472,
+        "max_strength": 0.03851798549294472,
+        "min_strength": 0.03851798549294472,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.028974284417927265,
+        "max_strength": 0.03190695121884346,
+        "min_strength": 0.02604161761701107,
+        "std": 0.002932666800916195,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DSC01368_JPG_jpg.rf.c4ab0fd44b7b4155f185b92f978e1798_vs_2020jishuyanzheng_97331": {
+    "source_subdir": "DSC01368_JPG_jpg.rf.c4ab0fd44b7b4155f185b92f978e1798",
+    "target_subdir": "2020jishuyanzheng_97331",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.060421692207455635,
+        "max_strength": 0.06927797943353653,
+        "min_strength": 0.05156540498137474,
+        "std": 0.008856287226080894,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.037975382059812546,
+        "max_strength": 0.037975382059812546,
+        "min_strength": 0.037975382059812546,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.029283231124281883,
+        "max_strength": 0.0326603502035141,
+        "min_strength": 0.025906112045049667,
+        "std": 0.003377119079232216,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DSC01371_JPG_jpg.rf.ce29efa2f3f7c56d9acc871bc37b304f_vs_2020jishuyanzheng_97590": {
+    "source_subdir": "DSC01371_JPG_jpg.rf.ce29efa2f3f7c56d9acc871bc37b304f",
+    "target_subdir": "2020jishuyanzheng_97590",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06028415635228157,
+        "max_strength": 0.06883180141448975,
+        "min_strength": 0.051736511290073395,
+        "std": 0.008547645062208176,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03751404955983162,
+        "max_strength": 0.03751404955983162,
+        "min_strength": 0.03751404955983162,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.028967712074518204,
+        "max_strength": 0.03201795369386673,
+        "min_strength": 0.025917470455169678,
+        "std": 0.003050241619348526,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DSC01372_JPG_jpg.rf.49a1f68a6190644f86601f93afb3fb2d_vs_2020jishuyanzheng_97591": {
+    "source_subdir": "DSC01372_JPG_jpg.rf.49a1f68a6190644f86601f93afb3fb2d",
+    "target_subdir": "2020jishuyanzheng_97591",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.060465121641755104,
+        "max_strength": 0.06925468146800995,
+        "min_strength": 0.05167556181550026,
+        "std": 0.008789559826254845,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03850468248128891,
+        "max_strength": 0.03850468248128891,
+        "min_strength": 0.03850468248128891,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.028257607482373714,
+        "max_strength": 0.030311347916722298,
+        "min_strength": 0.02620386704802513,
+        "std": 0.0020537404343485832,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DSC01376_JPG_jpg.rf.7c5a53c55d528e0328576255aa89bbe6_vs_2020jishuyanzheng_97593": {
+    "source_subdir": "DSC01376_JPG_jpg.rf.7c5a53c55d528e0328576255aa89bbe6",
+    "target_subdir": "2020jishuyanzheng_97593",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.05930241756141186,
+        "max_strength": 0.0680864080786705,
+        "min_strength": 0.050518427044153214,
+        "std": 0.008783990517258644,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03657572716474533,
+        "max_strength": 0.03657572716474533,
+        "min_strength": 0.03657572716474533,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.029910757206380367,
+        "max_strength": 0.03365163505077362,
+        "min_strength": 0.026169879361987114,
+        "std": 0.0037408778443932533,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DSC01410_JPG_jpg.rf.f0232cde9d1700deab7b7fc1984b6e7a_vs_2020jishuyanzheng_97652": {
+    "source_subdir": "DSC01410_JPG_jpg.rf.f0232cde9d1700deab7b7fc1984b6e7a",
+    "target_subdir": "2020jishuyanzheng_97652",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06103114224970341,
+        "max_strength": 0.06990216672420502,
+        "min_strength": 0.0521601177752018,
+        "std": 0.00887102447450161,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.0396014042198658,
+        "max_strength": 0.0396014042198658,
+        "min_strength": 0.0396014042198658,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.02964063733816147,
+        "max_strength": 0.032955728471279144,
+        "min_strength": 0.026325546205043793,
+        "std": 0.0033150911331176758,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DSC01411_JPG_jpg.rf.7090e8b7e5b8669a39e27a560281134c_vs_2020jishuyanzheng_98198": {
+    "source_subdir": "DSC01411_JPG_jpg.rf.7090e8b7e5b8669a39e27a560281134c",
+    "target_subdir": "2020jishuyanzheng_98198",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06119358539581299,
+        "max_strength": 0.07000923156738281,
+        "min_strength": 0.052377939224243164,
+        "std": 0.008815646171569824,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.04011790454387665,
+        "max_strength": 0.04011790454387665,
+        "min_strength": 0.04011790454387665,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.029381809756159782,
+        "max_strength": 0.032027821987867355,
+        "min_strength": 0.02673579752445221,
+        "std": 0.002646012231707573,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "DSC02020_JPG_jpg.rf.3cb324028c7aa637dfefa4bba9afe077_vs_2020jishuyanzheng_98218": {
+    "source_subdir": "DSC02020_JPG_jpg.rf.3cb324028c7aa637dfefa4bba9afe077",
+    "target_subdir": "2020jishuyanzheng_98218",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.061460230499506,
+        "max_strength": 0.06950624287128448,
+        "min_strength": 0.05341421812772751,
+        "std": 0.008046012371778488,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03798159584403038,
+        "max_strength": 0.03798159584403038,
+        "min_strength": 0.03798159584403038,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031228932552039623,
+        "max_strength": 0.03507398068904877,
+        "min_strength": 0.02738388441503048,
+        "std": 0.003845048137009144,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "IMG_20221208_075859_jpg.rf.343561e8a46e8a47ef1467a8d0683b13_vs_2020jishuyanzheng_98317": {
+    "source_subdir": "IMG_20221208_075859_jpg.rf.343561e8a46e8a47ef1467a8d0683b13",
+    "target_subdir": "2020jishuyanzheng_98317",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06190766021609306,
+        "max_strength": 0.07083424925804138,
+        "min_strength": 0.052981071174144745,
+        "std": 0.008926589041948318,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.037383951246738434,
+        "max_strength": 0.037383951246738434,
+        "min_strength": 0.037383951246738434,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.029743345454335213,
+        "max_strength": 0.03337754309177399,
+        "min_strength": 0.02610914781689644,
+        "std": 0.003634197637438774,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "IMG_20221208_075905_jpg.rf.90a483aab0c3dc38f7dffe30e4637193_vs_2020jishuyanzheng_98318": {
+    "source_subdir": "IMG_20221208_075905_jpg.rf.90a483aab0c3dc38f7dffe30e4637193",
+    "target_subdir": "2020jishuyanzheng_98318",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06210876256227493,
+        "max_strength": 0.07099835574626923,
+        "min_strength": 0.05321916937828064,
+        "std": 0.008889593183994293,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.037603218108415604,
+        "max_strength": 0.037603218108415604,
+        "min_strength": 0.037603218108415604,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.029393850825726986,
+        "max_strength": 0.032618869096040726,
+        "min_strength": 0.026168832555413246,
+        "std": 0.0032250182703137398,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "IMG_20221208_083648_jpg.rf.0cde44017d99b4ef06f12ee09f5f8729_vs_2020jishuyanzheng_98421": {
+    "source_subdir": "IMG_20221208_083648_jpg.rf.0cde44017d99b4ef06f12ee09f5f8729",
+    "target_subdir": "2020jishuyanzheng_98421",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.0617228914052248,
+        "max_strength": 0.07052553445100784,
+        "min_strength": 0.05292024835944176,
+        "std": 0.008802643045783043,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03783330321311951,
+        "max_strength": 0.03783330321311951,
+        "min_strength": 0.03783330321311951,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.028461772948503494,
+        "max_strength": 0.03135191276669502,
+        "min_strength": 0.025571633130311966,
+        "std": 0.0028901398181915283,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "IMG_20221208_083656_jpg.rf.be36e39c4f6335db4fe61b502c889acd_vs_2020jishuyanzheng_98430": {
+    "source_subdir": "IMG_20221208_083656_jpg.rf.be36e39c4f6335db4fe61b502c889acd",
+    "target_subdir": "2020jishuyanzheng_98430",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06191260553896427,
+        "max_strength": 0.07063663750886917,
+        "min_strength": 0.05318857356905937,
+        "std": 0.0087240319699049,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.037965137511491776,
+        "max_strength": 0.037965137511491776,
+        "min_strength": 0.037965137511491776,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.027970210649073124,
+        "max_strength": 0.03061041235923767,
+        "min_strength": 0.025330008938908577,
+        "std": 0.002640201710164547,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "IMG_20221208_083708_jpg.rf.29283e451ef0dea530fc1b43ad1d3e66_vs_2020jishuyanzheng_98601": {
+    "source_subdir": "IMG_20221208_083708_jpg.rf.29283e451ef0dea530fc1b43ad1d3e66",
+    "target_subdir": "2020jishuyanzheng_98601",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06192582845687866,
+        "max_strength": 0.07070352882146835,
+        "min_strength": 0.05314812809228897,
+        "std": 0.008777700364589691,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.038036879152059555,
+        "max_strength": 0.038036879152059555,
+        "min_strength": 0.038036879152059555,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.028304328210651875,
+        "max_strength": 0.031071048229932785,
+        "min_strength": 0.025537608191370964,
+        "std": 0.0027667200192809105,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "IMG_20221208_084532_jpg.rf.66accff27acdd246286612e2efea67d8_vs_2020jishuyanzheng_98946": {
+    "source_subdir": "IMG_20221208_084532_jpg.rf.66accff27acdd246286612e2efea67d8",
+    "target_subdir": "2020jishuyanzheng_98946",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06260925345122814,
+        "max_strength": 0.07148115336894989,
+        "min_strength": 0.05373735353350639,
+        "std": 0.008871899917721748,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03870281204581261,
+        "max_strength": 0.03870281204581261,
+        "min_strength": 0.03870281204581261,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.029525723308324814,
+        "max_strength": 0.03278021141886711,
+        "min_strength": 0.026271235197782516,
+        "std": 0.0032544881105422974,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "IMG_20221208_094717_jpg.rf.0c19f3878bb7e2b2633a8c10cd27be50_vs_2020jishuyanzheng_98982": {
+    "source_subdir": "IMG_20221208_094717_jpg.rf.0c19f3878bb7e2b2633a8c10cd27be50",
+    "target_subdir": "2020jishuyanzheng_98982",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06329735182225704,
+        "max_strength": 0.07163694500923157,
+        "min_strength": 0.054957758635282516,
+        "std": 0.008339593186974525,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.0394311361014843,
+        "max_strength": 0.0394311361014843,
+        "min_strength": 0.0394311361014843,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.02910776622593403,
+        "max_strength": 0.032081134617328644,
+        "min_strength": 0.026134397834539413,
+        "std": 0.002973368391394615,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "IMG_20221214_154511_jpg.rf.45aba6d1b3722b476c4ccf953323f960_vs_2020jishuyanzheng_99172": {
+    "source_subdir": "IMG_20221214_154511_jpg.rf.45aba6d1b3722b476c4ccf953323f960",
+    "target_subdir": "2020jishuyanzheng_99172",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06243892014026642,
+        "max_strength": 0.07066570222377777,
+        "min_strength": 0.054212138056755066,
+        "std": 0.008226782083511353,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03879550099372864,
+        "max_strength": 0.03879550099372864,
+        "min_strength": 0.03879550099372864,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03102927841246128,
+        "max_strength": 0.03516039997339249,
+        "min_strength": 0.026898156851530075,
+        "std": 0.004131121560931206,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "Thuy-tinh-12-_jpg.rf.ac38a72c48fcba6265da861fb6e4c095_vs_2020jishuyanzheng_99177": {
+    "source_subdir": "Thuy-tinh-12-_jpg.rf.ac38a72c48fcba6265da861fb6e4c095",
+    "target_subdir": "2020jishuyanzheng_99177",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.062236275523900986,
+        "max_strength": 0.07174316048622131,
+        "min_strength": 0.05272939056158066,
+        "std": 0.009506884962320328,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.037525724619627,
+        "max_strength": 0.037525724619627,
+        "min_strength": 0.037525724619627,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03148262482136488,
+        "max_strength": 0.03630471229553223,
+        "min_strength": 0.026660537347197533,
+        "std": 0.004822087474167347,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "Thuy-tinh-14-_jpg.rf.0a9a3b397e077dbf4156c7ac7f9a5ec1_vs_2020jishuyanzheng_99189": {
+    "source_subdir": "Thuy-tinh-14-_jpg.rf.0a9a3b397e077dbf4156c7ac7f9a5ec1",
+    "target_subdir": "2020jishuyanzheng_99189",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06329693831503391,
+        "max_strength": 0.07232315093278885,
+        "min_strength": 0.054270725697278976,
+        "std": 0.009026212617754936,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.037768229842185974,
+        "max_strength": 0.037768229842185974,
+        "min_strength": 0.037768229842185974,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03246620949357748,
+        "max_strength": 0.03743772581219673,
+        "min_strength": 0.02749469317495823,
+        "std": 0.004971516318619251,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "Thuy-tinh-23-_jpg.rf.1ec100caf56e26682f564812b98cfab5_vs_2020jishuyanzheng_99560": {
+    "source_subdir": "Thuy-tinh-23-_jpg.rf.1ec100caf56e26682f564812b98cfab5",
+    "target_subdir": "2020jishuyanzheng_99560",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.0589671041816473,
+        "max_strength": 0.06818555295467377,
+        "min_strength": 0.049748655408620834,
+        "std": 0.009218448773026466,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03583759069442749,
+        "max_strength": 0.03583759069442749,
+        "min_strength": 0.03583759069442749,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.02995620295405388,
+        "max_strength": 0.03375084698200226,
+        "min_strength": 0.0261615589261055,
+        "std": 0.0037946440279483795,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "Thuy-tinh-29-_jpg.rf.80285be02cf571a657cf9dd2465cf5c8_vs_2020jishuyanzheng_99602": {
+    "source_subdir": "Thuy-tinh-29-_jpg.rf.80285be02cf571a657cf9dd2465cf5c8",
+    "target_subdir": "2020jishuyanzheng_99602",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.059237709268927574,
+        "max_strength": 0.06836001574993134,
+        "min_strength": 0.05011540278792381,
+        "std": 0.009122306481003761,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.035873498767614365,
+        "max_strength": 0.035873498767614365,
+        "min_strength": 0.035873498767614365,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.030549687333405018,
+        "max_strength": 0.034755680710077286,
+        "min_strength": 0.02634369395673275,
+        "std": 0.004205993376672268,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "Thuy-tinh-5-_jpg.rf.5d428168da7eed753d0fea0ec7b72e6e_vs_2020jishuyanzheng_99612": {
+    "source_subdir": "Thuy-tinh-5-_jpg.rf.5d428168da7eed753d0fea0ec7b72e6e",
+    "target_subdir": "2020jishuyanzheng_99612",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06296098046004772,
+        "max_strength": 0.07110317796468735,
+        "min_strength": 0.054818782955408096,
+        "std": 0.008142197504639626,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03867368772625923,
+        "max_strength": 0.03867368772625923,
+        "min_strength": 0.03867368772625923,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.032293993048369884,
+        "max_strength": 0.03736703097820282,
+        "min_strength": 0.02722095511853695,
+        "std": 0.005073037929832935,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "Thuy-tinh-8-_jpg.rf.374be5ae3e4af80af67ef92e4df81d40_vs_2020jishuyanzheng_99618": {
+    "source_subdir": "Thuy-tinh-8-_jpg.rf.374be5ae3e4af80af67ef92e4df81d40",
+    "target_subdir": "2020jishuyanzheng_99618",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.05871734395623207,
+        "max_strength": 0.06788523495197296,
+        "min_strength": 0.04954945296049118,
+        "std": 0.00916789099574089,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.034245241433382034,
+        "max_strength": 0.034245241433382034,
+        "min_strength": 0.034245241433382034,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.031452751718461514,
+        "max_strength": 0.03635662794113159,
+        "min_strength": 0.026548875495791435,
+        "std": 0.004903876222670078,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "Thuy-tinh-9-_jpg.rf.a01e97c251991275a27993f66be475db_vs_2020jishuyanzheng_99629": {
+    "source_subdir": "Thuy-tinh-9-_jpg.rf.a01e97c251991275a27993f66be475db",
+    "target_subdir": "2020jishuyanzheng_99629",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.05858175456523895,
+        "max_strength": 0.06781207770109177,
+        "min_strength": 0.04935143142938614,
+        "std": 0.009230323135852814,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.035267382860183716,
+        "max_strength": 0.035267382860183716,
+        "min_strength": 0.035267382860183716,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.02991290297359228,
+        "max_strength": 0.03406000882387161,
+        "min_strength": 0.02576579712331295,
+        "std": 0.004147105850279331,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "cdien_ttinh_ct_vo_508_JPG_jpg.rf.c1eeaa2d860ade0c435628edf191a46b_vs_2020jishuyanzheng_99637": {
+    "source_subdir": "cdien_ttinh_ct_vo_508_JPG_jpg.rf.c1eeaa2d860ade0c435628edf191a46b",
+    "target_subdir": "2020jishuyanzheng_99637",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06288777478039265,
+        "max_strength": 0.07112458348274231,
+        "min_strength": 0.054650966078042984,
+        "std": 0.008236808702349663,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03902420029044151,
+        "max_strength": 0.03902420029044151,
+        "min_strength": 0.03902420029044151,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03152046166360378,
+        "max_strength": 0.035685427486896515,
+        "min_strength": 0.02735549584031105,
+        "std": 0.004164965823292732,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "cdien_ttinh_ct_vo_510_JPG_jpg.rf.101e957a29a934c39ffe927625dbb179_vs_2020jishuyanzheng_99660": {
+    "source_subdir": "cdien_ttinh_ct_vo_510_JPG_jpg.rf.101e957a29a934c39ffe927625dbb179",
+    "target_subdir": "2020jishuyanzheng_99660",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06190936453640461,
+        "max_strength": 0.07071594148874283,
+        "min_strength": 0.05310278758406639,
+        "std": 0.008806576952338219,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.037959519773721695,
+        "max_strength": 0.037959519773721695,
+        "min_strength": 0.037959519773721695,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.03173413313925266,
+        "max_strength": 0.03636206313967705,
+        "min_strength": 0.027106203138828278,
+        "std": 0.004627930000424385,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "cdien_ttinh_ct_vo_519_JPG_jpg.rf.59fb3882b76db452b978a2618b9801a7_vs_2020jishuyanzheng_99911": {
+    "source_subdir": "cdien_ttinh_ct_vo_519_JPG_jpg.rf.59fb3882b76db452b978a2618b9801a7",
+    "target_subdir": "2020jishuyanzheng_99911",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.06093900464475155,
+        "max_strength": 0.07011960446834564,
+        "min_strength": 0.051758404821157455,
+        "std": 0.009180599823594093,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.03733820468187332,
+        "max_strength": 0.03733820468187332,
+        "min_strength": 0.03733820468187332,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.02935640048235655,
+        "max_strength": 0.03310484439134598,
+        "min_strength": 0.02560795657336712,
+        "std": 0.0037484439089894295,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  },
+  "cdien_ttinh_ct_vo_526_JPG_jpg.rf.4be7cb118e6e22f129d0407e2fdb0548_vs_2020jishuyanzheng_99954": {
+    "source_subdir": "cdien_ttinh_ct_vo_526_JPG_jpg.rf.4be7cb118e6e22f129d0407e2fdb0548",
+    "target_subdir": "2020jishuyanzheng_99954",
+    "layer_comparison": {
+      "shallow": {
+        "mean_strength": 0.05977574735879898,
+        "max_strength": 0.06917573511600494,
+        "min_strength": 0.05037575960159302,
+        "std": 0.009399987757205963,
+        "file_count": 2,
+        "sample_files": [
+          "stage2_C2f_features.npy",
+          "stage4_C2f_features.npy"
+        ]
+      },
+      "middle": {
+        "mean_strength": 0.035640377551317215,
+        "max_strength": 0.035640377551317215,
+        "min_strength": 0.035640377551317215,
+        "std": 0.0,
+        "file_count": 1,
+        "sample_files": [
+          "stage6_C2f_features.npy"
+        ]
+      },
+      "deep": {
+        "mean_strength": 0.030970812775194645,
+        "max_strength": 0.03530287370085716,
+        "min_strength": 0.026638751849532127,
+        "std": 0.0043320609256625175,
+        "file_count": 2,
+        "sample_files": [
+          "stage8_C2f_features.npy",
+          "stage9_SPPF_features.npy"
+        ]
+      }
+    }
+  }
+}

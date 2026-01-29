@@ -1,0 +1,41 @@
+_BASE_: "./base-rcnn-hazydet.yaml"
+MODEL:
+  WEIGHTS: output/hazydet/da2od_strongaug/hazydet_test_model_best.pth
+EMA:
+  ENABLED: True
+DA:
+  TEACHER:
+    ENABLED: True
+  DISTILL:
+    HARD_ROIH_CLS_ENABLED: False
+    HARD_ROIH_REG_ENABLED: False
+    HARD_OBJ_ENABLED: False
+    HARD_RPN_REG_ENABLED: False
+    ROIH_CLS_ENABLED: True
+    OBJ_ENABLED: True
+    ROIH_REG_ENABLED: True
+    RPN_REG_ENABLED: True
+  ALIGN:
+    IMG_DA_ENABLED: True
+    INS_DA_ENABLED: True
+AUG:
+  LABELED_INCLUDE_RANDOM_ERASING: True
+  UNLABELED_INCLUDE_RANDOM_ERASING: False
+  LABELED_MIC_AUG: False
+  UNLABELED_MIC_AUG: True
+DATASETS:
+  TRAIN: ("hazydet_train",)
+  TEST: ("hazydet_foggy_test",)
+  UNLABELED: ("hazydet_foggy_test",)
+  BATCH_COMPONENTS: ("labeled_strong", "unlabeled_strong")
+  BATCH_RATIOS: (1,1)
+SOLVER:
+  STEPS: (14999,)
+  IMS_PER_BATCH: 4
+  IMS_PER_GPU: 2
+  MAX_ITER: 15000
+  CHECKPOINT_PERIOD: 500
+  BACKWARD_AT_END: True
+TEST:
+  EVAL_PERIOD: 500
+OUTPUT_DIR: "output/hazydet/hazydet_da2od_best/"
